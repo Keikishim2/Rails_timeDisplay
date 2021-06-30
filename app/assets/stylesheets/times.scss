@@ -1,0 +1,16 @@
+// Place all the styles related to the Times controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body{
+    background: url('http://sfwallpaper.com/images/clock-desktop-wallpaper-23.jpg');
+    background-size: cover;
+    overflow-x: hidden;
+}
+h1, h3{
+    transform: translate(180%, 380%);
+    color: gold;
+    text-align: center;
+    font-size: 35px;
+    border: 2px inset gray;
+    width: 500px;
+}
